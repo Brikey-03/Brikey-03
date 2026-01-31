@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi,This is Brikey, I'm a BTech CSE student 👋
 
-<!--
-**Brikey-03/Brikey-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year Computer Science Engineering student focused on building strong
+foundations in Python, SQL, and problem-solving.
 
-Here are some ideas to get you started:
+### What I'm working on
+- Python fundamentals and DSA
+- SQL queries and database basics
+- Small projects including a physics simulation using Snell’s Law
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Python
+- SQL (MySQL basics)
+- Problem-solving with dictionaries, loops, functions
+
+### Current goal
+Actively preparing for internships and looking to grow through hands-on projects.
